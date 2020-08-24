@@ -1,0 +1,9 @@
+C:\Users\Mawuli\source\repos\CalaProp_sl\CalaProp\bin\Debug\CalaProp.exe
+C:\Users\Mawuli\source\repos\CalaProp_sl\CalaProp\bin\Debug\CalaProp.pdb
+C:\Users\Mawuli\source\repos\CalaProp_sl\CalaProp\obj\Debug\CalaProp.csprojAssemblyReference.cache
+C:\Users\Mawuli\source\repos\CalaProp_sl\CalaProp\obj\Debug\CalaProp.Form1.resources
+C:\Users\Mawuli\source\repos\CalaProp_sl\CalaProp\obj\Debug\CalaProp.Properties.Resources.resources
+C:\Users\Mawuli\source\repos\CalaProp_sl\CalaProp\obj\Debug\CalaProp.csproj.GenerateResource.cache
+C:\Users\Mawuli\source\repos\CalaProp_sl\CalaProp\obj\Debug\CalaProp.csproj.CoreCompileInputs.cache
+C:\Users\Mawuli\source\repos\CalaProp_sl\CalaProp\obj\Debug\CalaProp.exe
+C:\Users\Mawuli\source\repos\CalaProp_sl\CalaProp\obj\Debug\CalaProp.pdb
