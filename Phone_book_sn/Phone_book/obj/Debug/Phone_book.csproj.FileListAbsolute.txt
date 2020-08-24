@@ -1,0 +1,12 @@
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\bin\Debug\Phone_book.exe
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\bin\Debug\Phone_book.pdb
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\obj\Debug\Phone_book.csprojAssemblyReference.cache
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\obj\Debug\Phone_book.Form1.resources
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\obj\Debug\Phone_book.Properties.Resources.resources
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\obj\Debug\Phone_book.csproj.GenerateResource.cache
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\obj\Debug\Phone_book.csproj.CoreCompileInputs.cache
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\obj\Debug\Phone_book.exe
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\obj\Debug\Phone_book.pdb
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\obj\Debug\Phone_book.UI_Forms.About_us_form.resources
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\obj\Debug\Phone_book.UI_Forms.Search_form.resources
+C:\Users\Mawuli\source\repos\Phone_book_sn\Phone_book\obj\Debug\Phone_book.UI_Forms.New_butt.resources
