@@ -1,0 +1,15 @@
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\bin\Debug\DatabaseProject.exe
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\bin\Debug\DatabaseProject.pdb
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\obj\Debug\DatabaseProject.csprojAssemblyReference.cache
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\obj\Debug\DatabaseProject.Properties.Resources.resources
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\obj\Debug\DatabaseProject.SignUp.resources
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\obj\Debug\DatabaseProject.csproj.GenerateResource.cache
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\obj\Debug\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\obj\Debug\DatabaseProject.csproj.CopyComplete
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\obj\Debug\DatabaseProject.exe
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\obj\Debug\DatabaseProject.pdb
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\obj\Debug\DatabaseProject.UI.SignIn.resources
+C:\Users\Mawuli\source\database\DatabaseProject_se\DatabaseProject\obj\Debug\DatabaseProject.UI.HomePage.resources
